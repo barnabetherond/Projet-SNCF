@@ -1,3 +1,0 @@
--3, 4 personnes
--sujet libre d'analyse de données
--Sous la forme d'un notebook Jupyter
